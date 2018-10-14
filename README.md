@@ -27,4 +27,4 @@
     să ruleze mai repede, însă toate acestea doar după ce te-ai asigurat că algoritmul este corect. 
 
 
-  Mult succes!
+  Mult succes! :wink:
