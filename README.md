@@ -12,6 +12,8 @@
      
     Verifică de asemenea șirurile introduse ca input pentru algoritmi și asigură-te că ele sunt sub forma dorită. 
     
+    Verifică dacă deschiderea fișierelor a fost realizată cu succes și de asemenea dacă zonele de memorie au fost alocate cu succes.  
+    
     Folosește debugger-ul de fiecare dată când crezi că este nevoie de el. Importanța acestui instrument este enormă. 
      
 3) Înainte de a genera statistici pe baza algoritmilor, asigură-te că aceștia sunt corecți. 
